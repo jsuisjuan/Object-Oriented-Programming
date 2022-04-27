@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;qtdFuncionarios&apos; in &apos;exercicioAula6.ProgramaPrincipal&apos; to &apos;QTD_FUNCIONARIOS&apos;&#x0D;&#x0A;- Original project: &apos;6 exercicios&apos;&#x0D;&#x0A;- Original element: &apos;exercicioAula6.ProgramaPrincipal.qtdFuncionarios&apos;&#x0D;&#x0A;- Renamed element: &apos;exercicioAula6.ProgramaPrincipal.QTD_FUNCIONARIOS&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;qtdFuncionarios&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;exercicioAula6{ProgramaPrincipal.java[ProgramaPrincipal^qtdFuncionarios" name="QTD_FUNCIONARIOS" references="true" setter="false" stamp="1645653063389" textual="false" version="1.0"/>
+</session>
